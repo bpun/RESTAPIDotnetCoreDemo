@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DotnetCore.RestAPIDemo</name>
+    </assembly>
+    <members>
+        <member name="M:DotnetCore.RestAPIDemo.Core.Extensions.AddPagination(Microsoft.AspNetCore.Http.HttpResponse,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Extension method to add pagination info to Response headers
+            </summary>
+            <param name="response"></param>
+            <param name="currentPage"></param>
+            <param name="itemsPerPage"></param>
+            <param name="totalItems"></param>
+            <param name="totalPages"></param>
+        </member>
+    </members>
+</doc>
